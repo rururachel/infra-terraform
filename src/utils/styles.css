@@ -1,0 +1,59 @@
+.infra-terraform {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px auto;
+  width: 800px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.infra-terraform h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.infra-terraform h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.infra-terraform ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.infra-terraform li {
+  margin-bottom: 10px;
+}
+
+.infra-terraform a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+.infra-terraform a:hover {
+  color: #23527c;
+}
+
+.infra-terraform table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.infra-terraform th {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.infra-terraform td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
